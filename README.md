@@ -1,2 +1,3 @@
-# nova-data-visualizer-mst6
+# Nova Data Visualizer Mst6
+
 A data visualization tool for modern development workflows.
